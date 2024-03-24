@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I am Dhanuja Rehan<br>I am an Undergraduate student of Software Engineering<br>I am studying in Cardiff Metropolitan University
+
+![CAMPOREE](https://github.com/DhanujaRehan/DhanujaRehan/assets/160403658/09831d3a-7a71-4430-93ec-f54d93641afc)
 
 
 

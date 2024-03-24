@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I am Dhanuja Rehan<br>I am an Undergraduate student of Software Engineering<br>I am studying in Cardiff Metropolitan University
 
-# https://www.pinterest.com/pin/6755468184264506/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_rehan_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhanuja Rehan Jayakody) 

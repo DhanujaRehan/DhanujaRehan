@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-![CAMPOREE](https://github.com/DhanujaRehan/DhanujaRehan/assets/160403658/09831d3a-7a71-4430-93ec-f54d93641afc)
 
+![ezgif-5-45daca27c2](https://github.com/DhanujaRehan/DhanujaRehan/assets/160403658/488a163c-1865-4548-a694-849d4b7f54b7)
 
 
 ## 🌐 Socials:

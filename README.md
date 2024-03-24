@@ -1,8 +1,5 @@
 # 💫 About Me:
-
-
-![ezgif-5-45daca27c2](https://github.com/DhanujaRehan/DhanujaRehan/assets/160403658/488a163c-1865-4548-a694-849d4b7f54b7)
-
+![ezgif-5-91477694ae](https://github.com/DhanujaRehan/DhanujaRehan/assets/160403658/0223a7e7-03a4-43e9-8089-46f06b0958a4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_rehan_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhanuja Rehan Jayakody) 

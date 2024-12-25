@@ -1,6 +1,21 @@
 # ✨ About Me:
 I'm Softwear Engineering Undergraduate<br>Studies in Cardiff Metropoliton University
 
+# HELLO / ආයුබෝවන් / こんにちは 👋
+
+Developing software as the sun rises ☀️, supporting open-source as the moon climbs 🌙   
+
+---
+
+### About Me
+- 🪬 **Fun fact**: Uhhh, I watch movies btw  
+
+---
+
+<div align="center">
+  <img src="https://ibb.co/nkF7x9Z" alt="Pixel Art" width="150" />
+</div>
+
 
 ## 👨🏻‍💻 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/m6cTmDGv7LKvH1Q8/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/d_rehan_j?igsh=aWlhaDZrZTltZzR6&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanuja-rehan-jayakody-9138831ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dhanujarehan?s=21) 

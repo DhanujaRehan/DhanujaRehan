@@ -1,7 +1,7 @@
 #  ✨ About Me:
 I'm Software Engineering Undergraduate<br>Studies in Cardiff Metropolitan University
 
-# HELLO / ආයිබොබෝනං / こんにちは 👋
+# HELLO / ආයුබෝවන් / こんにちは 👋
 
 Developing software as the sun rises ☀️, supporting open-source as the moon climbs 🌙   
 

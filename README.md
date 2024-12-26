@@ -12,6 +12,8 @@ Developing software as the sun rises ☀️, supporting open-source as the moon 
 
 ![Build Status](https://github.com/<username>/<repo>/actions/workflows/<workflow>.yml/badge.svg)
 
+![License](https://img.shields.io/badge/license-MIT-green)
+
 <div align="center">
   <img src=""D:\WhatsApp Image 2024-12-07 at 00.13.19_7909d331.jpg"" alt="Pixel Art" width="150" />
 </div>

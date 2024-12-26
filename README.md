@@ -12,8 +12,8 @@ Developing software as the sun rises ☀️, supporting open-source as the moon 
 
 # My Project
 
-![Build Status](https://github.com/<username>/<repo>/actions/workflows/build.yml/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Build Status](https://github.com/dhanujarehan/repo/actions/workflows/build.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 <div align="center">

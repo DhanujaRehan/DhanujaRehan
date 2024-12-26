@@ -10,11 +10,11 @@ Developing software as the sun rises ☀️, supporting open-source as the moon 
 ### About Me
 - 🪬 **Fun fact**: Uhhh, I watch movies 
 
-![Build Status](https://github.com/<username>/<repo>/actions/workflows/<workflow>.yml/badge.svg)
+# My Project
 
+![Build Status](https://github.com/<username>/<repo>/actions/workflows/build.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
-[![Build Status](https://travis-ci.org/<username>/<repo>.svg?branch=main)](https://travis-ci.org/<username>/<repo>)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 <div align="center">
   <img src=""D:\WhatsApp Image 2024-12-07 at 00.13.19_7909d331.jpg"" alt="Pixel Art" width="150" />

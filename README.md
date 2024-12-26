@@ -24,59 +24,27 @@ Developing software as the sun rises ☀️, supporting open-source as the moon 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/m6cTmDGv7LKvH1Q8/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/d_rehan_j?igsh=aWlhaDZrZTltZzR6&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanuja-rehan-jayakody-9138831ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dhanujarehan?s=21) 
 
 # ፕ Tech Stack:
+</br>
+
 <p align="center">
-  <a href="#">
-    <img src="./images/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="./images/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="./images/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="./images/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="./images/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="./images/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="./images/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/android_studio.svg" alt="android studio" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/android_studio_colour.svg" alt="android studio colour" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/visualstudio.svg" alt="visual studio" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="./images/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
+</br>
+</br>
+</br>
 
 # ♘ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DhanujaRehan&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>

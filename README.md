@@ -14,6 +14,8 @@ Developing software as the sun rises ☀️, supporting open-source as the moon 
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+[![Build Status](https://travis-ci.org/<username>/<repo>.svg?branch=main)](https://travis-ci.org/<username>/<repo>)
+
 <div align="center">
   <img src=""D:\WhatsApp Image 2024-12-07 at 00.13.19_7909d331.jpg"" alt="Pixel Art" width="150" />
 </div>

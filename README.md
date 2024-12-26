@@ -17,7 +17,8 @@ Developing software as the sun rises ☀️, supporting open-source as the moon 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 <div align="center">
-  <img src=""D:\WhatsApp Image 2024-12-07 at 00.13.19_7909d331.jpg"" alt="Pixel Art" width="150" />
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 </div>
 
 

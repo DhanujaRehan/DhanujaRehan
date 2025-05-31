@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello World! I'm Dhanuja Rehan
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello World! ආයුබෝවන් / こんにちは !  I'm Dhanuja Rehan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Data+Science+Undergraduate+%7C+Software+Engineer;Building+AI+Solutions+%26+Web+Applications;Open+Source+Enthusiast+%26+Tech+Explorer;Cardiff+Metropolitan+University+Student" alt="Typing SVG" />

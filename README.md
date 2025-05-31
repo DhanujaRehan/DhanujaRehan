@@ -142,7 +142,7 @@ mindmap
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaRehan&repo=data-science-portfolio&theme=tokyonight)](https://github.com/DhanujaRehan/data-science-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaRehan&repo=mobile-app-development&theme=tokyonight)](https://github.com/DhanujaRehan/mobile-app-development)
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=DhanujaRehan&repo=mobile-app-development](https://github.com/DhanujaRehan/CodeVerse.git)&theme=tokyonight)]
 
 </div>
 

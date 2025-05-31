@@ -182,14 +182,6 @@ mindmap
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=638fda" alt="Spotify Playing" />
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">

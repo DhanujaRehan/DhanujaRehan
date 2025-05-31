@@ -1,9 +1,14 @@
-#  ✨ About Me:
+<h1 align="center">HELLO / ආයුබෝවන් / こんにちは 👋</h1>
+
+<h1 align="center">I am Dhanuja Rehan 👨🏻‍💻</h1>
+
 I'm Software Engineering Undergraduate<br>Studies in Cardiff Metropolitan University
 
-# HELLO / ආයුබෝවන් / こんにちは 👋
-
 Developing software as the sun rises ☀️, supporting open-source as the moon climbs 🌙   
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BsZm0xbzgwODFwazgweGc0ZGFmN2Q1dWl3Z2NwMWNoN2tzMnBwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Welcome Gif" width="500" />
+</p>
 
 ---
 

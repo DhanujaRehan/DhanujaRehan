@@ -16,9 +16,11 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **About Me**
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJoYXU5bm8xZ3NndDBkNXl0YXNsd3JkcGI1eGUzZjI2cHBhMXYxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -39,10 +41,11 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br>
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Universe**
 
 <div align="center">
 
@@ -97,16 +100,37 @@ me.say_hi()
 </p>
 
 ### 📈 Currently Learning
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Advanced" width="50" height="50"/>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="50" height="50"/>
-</p>
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas"/>
+<br><strong>🐼 Pandas</strong>
+<br><progress value="85" max="100"></progress>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Advanced Python"/>
+<br><strong>🐍 Advanced Python</strong>
+<br><progress value="80" max="100"></progress>
+</td>
+<td align="center" width="150">
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="65" height="65" alt="Power BI"/>
+<br><strong>📊 Power BI</strong>
+<br><progress value="70" max="100"></progress>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="Deep Learning"/>
+<br><strong>🧠 Deep Learning</strong>
+<br><progress value="60" max="100"></progress>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 📊 GitHub Analytics
 
@@ -123,7 +147,9 @@ me.say_hi()
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DhanujaRehan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="DhanujaRehan's trophies"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🎯 Current Learning Journey
 
@@ -153,7 +179,9 @@ mindmap
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🌟 Featured Projects
 
@@ -164,7 +192,9 @@ mindmap
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 📈 Contribution Graph
 
@@ -172,7 +202,9 @@ mindmap
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanujaRehan&bg_color=1a1b27&color=be90f2&line=638fda&point=35faea&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🏆 GitHub Profile Summary
 

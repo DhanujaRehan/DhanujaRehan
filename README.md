@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello World! ආයුබෝවන් / こんにちは !  I'm Dhanuja Rehan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Data+Science+Undergraduate+%F0%9F%93%8A;Software+Engineer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Cardiff+Metropolitan+University+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Data+Science+Undergraduate;Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Cardiff+Metropolitan+University" alt="Typing SVG" />
 </div>
 
 <div align="center">
